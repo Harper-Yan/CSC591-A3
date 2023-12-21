@@ -1,0 +1,17 @@
+K-Means Execution Log
+Iteration 1: 0.1356663703918457 seconds
+Iteration 2: 0.13656234741210938 seconds
+Iteration 3: 0.1355297565460205 seconds
+Iteration 4: 0.13403987884521484 seconds
+Iteration 5: 0.13453388214111328 seconds
+Iteration 6: 0.13653779029846191 seconds
+Iteration 7: 0.13568329811096191 seconds
+Iteration 8: 0.1345353126525879 seconds
+Iteration 9: 0.14313220977783203 seconds
+Iteration 10: 0.13359594345092773 seconds
+Iteration 11: 0.13343238830566406 seconds
+Iteration 12: 0.13553452491760254 seconds
+Iteration 13: 0.13603639602661133 seconds
+Iteration 14: 0.13648486137390137 seconds
+Iteration 15: 0.13303828239440918 seconds
+Iteration 16: 0.1331789493560791 seconds
