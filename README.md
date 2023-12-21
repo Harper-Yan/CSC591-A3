@@ -17,13 +17,13 @@ To summerize, all four programs works correctly, generating similar results unde
 
    This method is outperformed by both of GPU methods by at least 10* times.
    
-2. GPU multithreading without using shared memory.
+3. GPU multithreading without using shared memory.
    
    Files:   kmeans_cuda_without_s.py;   K-Means Clustering CUDA.png;   kmeans_cuda_execution_log.txt
 
    This method has basically the same performance with the version using shared memory.
    
-5. GPU multithreading using shared memory.
+4. GPU multithreading using shared memory.
 
    Files:   kmeans_cuda.py;   K-means Clustering Shared Cuda.png;   Kmeans_cuda_execution_shared_log.txt
 
