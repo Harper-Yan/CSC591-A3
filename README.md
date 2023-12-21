@@ -10,7 +10,12 @@ This repo stores the py files, visualized results and excution logs that sotres 
    This method is outperformed by all other methods by at least 10* times.
 
 3. GPU multithreading method.
-4. GPU multithreading without using shared memory.
-5. GPU multithreading using shared memory.
+4. 
+   Files:   kmeans_multithreading.py;   K-Means Clustering Multithreading.png;   kmeans_multithreading_excution_log.txt
+
+   This method is outperformed by both of GPU methods by at least 10* times.
+   
+6. GPU multithreading without using shared memory.
+7. GPU multithreading using shared memory.
 
    
